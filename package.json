@@ -1,6 +1,6 @@
 {
-  "name": "react-native-static-server",
-  "version": "0.5.0",
+  "name": "@eabais-arc/react-native-static-server",
+  "version": "0.5.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/futurepress/react-native-static-server.git",
@@ -18,8 +18,8 @@
     "react-native"
   ],
   "author": {
-    "name": "Fred Chasen",
-    "email": "fchasen@gmail.com"
+    "name": "Edward Aries Abais",
+    "email": "e.abais@arcanys.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
