@@ -49,6 +49,7 @@ def safeExtGet(prop, fallback) {
 //apply plugin: 'maven'
 
 android {
+    namespace 'com.futurepress.staticserver'
     compileSdkVersion safeExtGet('compileSdkVersion', DEFAULT_COMPILE_SDK_VERSION)
     buildToolsVersion safeExtGet('buildToolsVersion', DEFAULT_BUILD_TOOLS_VERSION)
     defaultConfig {
